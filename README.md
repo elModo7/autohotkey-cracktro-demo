@@ -6,7 +6,9 @@ Cracktros (short for *crack intros*) were short demos that appeared before crack
 
 ## Preview Demo
 
-![Preview](https://github.com/elModo7/autohotkey-cracktro-demo/blob/main/demo_video.mp4?raw=true)
+
+https://github.com/user-attachments/assets/118f64a6-8eb2-43df-b3ec-52c101cae021
+
 
 ## About the Demoscene
 
