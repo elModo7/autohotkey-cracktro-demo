@@ -115,6 +115,7 @@ Gdip_SetSmoothingMode(G, pixelatedTexts ? 1 : 4)
 - **Taric Porter**, **Marius Șucan** and the **AHK community** for the GDIp library and supporting functions
 - Inspiration from the **demoscene** and classic **cracktros**
 - **AGAiN - EIQ FirewallAnalyzer 3.2.10 kg.xm** is the *"chiptune"* theme I used
+- Not really a credit but [you may find this thread interesting!](https://www.autohotkey.com/boards/viewtopic.php?t=42047)
 
 ## License
 
