@@ -124,5 +124,5 @@ If you make another AutoHotkey demo and want to share it here or improve mine, f
 
 
 
-[!TIP]
-Fun fact, the whole source including AutoHotkey libraries (witout DLL & XM) fit under 64Kb. Everything included except the AHK interpreter is 101Kb.
+> [!TIP]
+> Fun fact, the whole source including AutoHotkey libraries (witout DLL & XM) fit under 64Kb. Everything included except the AHK interpreter is 101Kb.
